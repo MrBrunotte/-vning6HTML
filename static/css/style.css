@@ -1,0 +1,57 @@
+html {
+    scroll-behavior: smooth;
+}
+* {
+    box-sizing: border-box;
+    padding: 0; 
+    margin: 0;
+}
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    background-color: #5151c5;
+}
+header {
+    height: 60vh;
+    padding: 25px;
+    margin: 0 auto;
+    text-align: center;
+}
+a,
+ul,
+li {
+    text-decoration: none;
+    color: white;
+}
+h1 {
+    margin: 0 auto;
+    padding: 50px;
+}
+p {
+    
+}
+::before, ::after {
+    box-sizing: inherit;
+}
+.container  {
+    width: 80%;
+    margin: 0 auto;
+}
+.headerImg {
+    height: 65%;
+    width: auto;
+}
+.linkSection {
+    display: flex;
+    justify-content: center;
+}
+.center {
+    display: flex;
+    justify-content: center;
+}
+iframe{
+    margin: 0 auto;
+}
+.bgImg {
+    color: red;
+}
