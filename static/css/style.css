@@ -104,6 +104,7 @@ h2 {
 }
 iframe{
     margin: 0 auto;
+    border-style: none;
 }
 .videoSize {
     width: 500px;
