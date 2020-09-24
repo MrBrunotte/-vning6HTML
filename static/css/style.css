@@ -105,6 +105,7 @@ h2 {
 iframe{
     margin: 0 auto;
     border-style: none;
+    border-radius: 25px;
 }
 .videoSize {
     width: 500px;
